@@ -19,12 +19,11 @@
 // Assign the value "John" to name.
 // Copy the value from name to admin.
 // Show the value of admin using alert (must output “John”).
-let admin;
-let name;
-name = "Ehtisham";
-admin = name;
-alert(admin);
-
+// let admin;
+// let name;
+// name = "Ehtisham";
+// admin = name;
+// alert(admin);
 // constants 
 // const birthday = "13.04.2006";
 // birthday = "01.12.2002";
@@ -246,9 +245,9 @@ alert(admin);
 // alert( 8 % 3 ); 
 
 // exponentional 2² 
-alert( 2 ** 2 ); // 2² = 4
-alert( 2 ** 3 ); // 2³ = 8
-alert( 2 ** 4 ); // 2⁴ = 16
+// alert( 2 ** 2 ); // 2² = 4
+// alert( 2 ** 3 ); // 2³ = 8
+// alert( 2 ** 4 ); // 2⁴ = 16
 
 // '1' is string ...therefore value is 12
 // alert( '1' + 2 ); // "12"
@@ -314,9 +313,9 @@ alert( 2 ** 4 ); // 2⁴ = 16
 // https://javascript.info/operators
 
 // 6. comparison operator 
-x=5
-x =="5"  //true
-x === "5" //false
+// x=5
+// x =="5"  //true
+// x === "5" //false
 
 // url 
 // https://www.w3schools.com/js/js_comparisons.asp
@@ -340,37 +339,4 @@ x === "5" //false
 // const fruites = ["Bannana", "Mango", "Orange", "Apple"];
 //       index..... 0           1         2         3
 // length 4
-
-// Properties of Array
-// join()
-// The join() method also joins all array elements into a string.
-// pop()
-// The pop() method removes the last element from an array:
-// push()
-// The push() method adds a new element to an array (at the end):
-// shift()
-// The shift() method removes the first array element and "shifts" all other elements to a lower index.
-// unshift()
-// The unshift() method adds a new element to an array (at the beginning), and "unshifts" older elements:
-// splice()
-// The splice() method can be used to add new items to an array:
-// concat()
-// The concat() method creates a new array by merging (concatenating) existing arrays:
-// slice()
-// The slice() method slices out a piece of an array into a new array.
-
-// sort()
-// reverse()
-// URL https://www.w3schools.com/js/js_array_methods.a
-
-
-
-
-
-
-
-
-
-
-
 
